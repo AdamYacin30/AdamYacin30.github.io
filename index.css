@@ -618,11 +618,6 @@ body:not(.user-is-tabbing) a:focus {
     padding: 4rem 0;
   }
   
-  .skills h2 {
-    color: #ffff;
-    margin-bottom: 2rem;
-  }
-  
   .skills__list {
     display: flex;
     justify-content: center;
